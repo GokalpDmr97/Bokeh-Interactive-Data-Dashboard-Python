@@ -1,0 +1,1 @@
+web: gunicorn first_script:app
